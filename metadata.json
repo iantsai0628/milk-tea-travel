@@ -1,0 +1,8 @@
+
+{
+  "name": "奶茶旅行 (Milk Tea Travel)",
+  "description": "A sophisticated, Morandi-styled PWA for planning group travels with AI-powered deep guides.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

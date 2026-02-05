@@ -1,0 +1,18 @@
+
+{
+  "name": "奶茶旅行 Milk Tea Travel",
+  "short_name": "奶茶旅行",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FAF8F5",
+  "theme_color": "#C8AD7F",
+  "description": "莫蘭迪色系團體旅遊規劃工具",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3246/3246690.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
